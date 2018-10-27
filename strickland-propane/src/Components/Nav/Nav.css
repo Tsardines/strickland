@@ -14,6 +14,14 @@
 
 .nav-ul {
   background-color: turquoise;
+  display: flex;
   float: right;
+  font-size: 1.35em;
   list-style-type: none;
+  width: 100%;
+}
+
+.nav-ul li {
+  margin: 1.25em;
+  padding-left: 3em;
 }
