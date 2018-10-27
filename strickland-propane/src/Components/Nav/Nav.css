@@ -1,0 +1,19 @@
+.nav {
+  background-color: orange;
+}
+
+.logo-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.logo-cont img {
+  height: 250px;
+  width: 280px;
+}
+
+.nav-ul {
+  background-color: turquoise;
+  float: right;
+  list-style-type: none;
+}
