@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import BodyProduct from './BodyProduct.js';
+import Products from './Products.js';
 import './Body.css';
 
 class Body extends Component {
@@ -16,7 +16,7 @@ class Body extends Component {
           <h1>- Hank Hill, Asst. Regional Manager</h1>
         </div>
 
-        <BodyProduct />
+        <Products />
 
 
 
