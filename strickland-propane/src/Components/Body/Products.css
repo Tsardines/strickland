@@ -3,7 +3,7 @@
 .products-cont {
   background-color: #faf5ef;
   height: 50vh;
-  margin-bottom: 5em;
+  margin-bottom: 10em;
 }
 
 .h1-products {
@@ -14,6 +14,7 @@
 .boxes {
   display: flex;
   justify-content: space-around;
+  margin-top: 6em;
   width: 100%;
 }
 
@@ -26,10 +27,10 @@
   width: 25vw;
 }
 
-.box-img {
-  height: 200px;
+.prod-img {
+  height: 300px;
   margin-left: 3em;
-  width: 200px;
+  width: 400px;
 }
 
 .btn {

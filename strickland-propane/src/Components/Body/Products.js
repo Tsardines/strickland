@@ -12,13 +12,13 @@ class Products extends Component {
         <div className="boxes">
 
           <div className="box">
-            <img src="https://picsum.photos/200/200/?random" alt="box-img" className="box-img"></img>
+            <img src="https://picsum.photos/200/200/?random" alt="box-img" className="prod-img"></img>
             <div className="btn"><a href="#">Browse Propane</a></div>
           </div>
 
 
-          <div className="box">
-            <img src="https://picsum.photos/200/200/?random" alt="box-img" className="box-img"></img>
+          <div className="prod">
+            <img src="https://picsum.photos/200/200/?random" alt="box-img" className="prod-img"></img>
             <div className="btn"><a href="#">Browse Propane Accessories</a></div>
           </div>
 

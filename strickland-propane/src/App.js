@@ -3,6 +3,8 @@ import './App.css';
 
 import Nav from './Components/Nav/Nav.js';
 import Body from './Components/Body/Body.js';
+import Footer from './Components/Footer/Footer.js';
+
 
 class App extends Component {
   render() {
@@ -10,6 +12,7 @@ class App extends Component {
       <div>
         <Nav />
         <Body />
+        <Footer />
 
       </div>
     );

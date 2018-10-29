@@ -1,0 +1,29 @@
+.h1-staff {
+  margin-bottom: 3em;
+  margin-top: 3em;
+  text-decoration: underline;
+}
+
+.box-img {
+  height: 200px;
+  margin-left: 3em;
+  width: 200px;
+}
+
+.staff-boxes {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.staff-box {
+  margin-bottom: 3em;
+  text-align: center;
+}
+
+.name {
+  font-size: 1.75em;
+}
+
+.title {
+  font-size: 1.35em;
+}

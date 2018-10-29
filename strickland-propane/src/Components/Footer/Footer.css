@@ -1,0 +1,16 @@
+.footer {
+  background-color: gray;
+  height: 30vh;
+}
+
+.left {
+  background-color: turquoise;
+  margin-left: 5em;
+  padding-top: 3.75em;
+  width: 40%;
+}
+
+.left p {
+  font-size: 1.25em;
+  text-transform: uppercase;
+}
