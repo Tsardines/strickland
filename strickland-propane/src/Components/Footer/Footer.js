@@ -8,9 +8,9 @@ class Footer extends Component {
 
         <div className="left">
 
-          <p>135 Los Gatos Rd - Arlen, TX 78700</p>
+          <p>135 Los Gatos Rd - Arlen, TX 78700&nbsp;&nbsp;(512) 652-9889</p>
           <p>Mon-Fri&nbsp;&nbsp;9AM-5PM&nbsp;&nbsp;&nbsp;Sat-Sun&nbsp;&nbsp;Closed</p>
-          <small>&copy; 1997-2018 Strickland Propane</small>
+          <medium>&copy; 1997-2018 Strickland Propane</medium>
 
         </div>
 
