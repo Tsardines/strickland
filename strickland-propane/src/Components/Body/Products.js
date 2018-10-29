@@ -5,7 +5,7 @@ import './Products.css';
 class Products extends Component {
   render() {
     return (
-      <div className="body-products-cont">
+      <div className="products-cont">
 
         <h1 className="h1-products">Products</h1>
 

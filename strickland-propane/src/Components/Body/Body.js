@@ -13,7 +13,7 @@ class Body extends Component {
 
         <div className="quote">
           <h1>"We sell propane and propane accessories."</h1>
-          <h1>- Hank Hill, Asst. Regional Manager</h1>
+          <h2>- Hank Hill, Asst. Regional Manager</h2>
         </div>
 
         <Products />

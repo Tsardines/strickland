@@ -1,7 +1,7 @@
 
 
-.body-products-cont {
-  background-color: orange;
+.products-cont {
+  background-color: #faf5ef;
   height: 50vh;
   margin-bottom: 5em;
 }
@@ -18,7 +18,6 @@
 }
 
 .box {
-  background-color: pink;
   display: flex;
   flex-direction: column;
   height: 35vh;
@@ -34,8 +33,15 @@
 }
 
 .btn {
-  background-color: turquoise;
   font-size: 1.25em;
   margin-top: 1.5em;
   text-align: center;
+}
+
+.btn a {
+  color: black;
+}
+
+.btn a:hover {
+  color: blue;
 }
