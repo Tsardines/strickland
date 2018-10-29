@@ -5,9 +5,9 @@
 }
 
 .box-img {
-  height: 200px;
+  height: 300px;
   margin-left: 3em;
-  width: 200px;
+  width: 300px;
 }
 
 .staff-boxes {
@@ -16,7 +16,6 @@
 }
 
 .staff-box {
-  margin-bottom: 3em;
   text-align: center;
 }
 
@@ -26,4 +25,5 @@
 
 .title {
   font-size: 1.35em;
+  margin-bottom: 3em;
 }
