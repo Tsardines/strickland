@@ -7,7 +7,7 @@ class Products extends Component {
     return (
       <div className="products-cont">
 
-        <h1 className="h1-products">Products</h1>
+        <h1 className="h1-products" id="products-id">Products</h1>
 
         <div className="boxes">
 

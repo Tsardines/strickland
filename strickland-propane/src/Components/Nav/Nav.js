@@ -9,10 +9,10 @@ class Nav extends Component {
         </div>
 
         <ul className="nav-ul">
-          <li>About</li>
-          <li>Products</li>
-          <li>Team</li>
-          <li>Contact</li>
+          <li><a href="#">About</a></li>
+          <li><a href="#products-id">Products</a></li>
+          <li><a href="#staff-id">Team</a></li>
+          <li><a href="#footer-id">Contact</a></li>
         </ul>
       </div>
     );

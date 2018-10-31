@@ -1,6 +1,4 @@
-.nav {
-  background-color: orange;
-}
+
 
 .logo-cont {
   display: flex;
@@ -8,21 +6,29 @@
 }
 
 .logo-cont img {
-  height: 250px;
+  height: 200px;
   width: 280px;
 }
 
 .nav-ul {
-  background-color: turquoise;
   display: flex;
   float: right;
   font-size: 2em;
+  justify-content: space-around;
   list-style-type: none;
   text-transform: uppercase;
   width: 100%;
 }
 
 .nav-ul li {
-  margin: 1.25em;
+  margin: -1em 1.25em 1.25em 1.25em;
   width: 100%;
+}
+
+.nav-ul a {
+  color: black;
+}
+
+.nav-ul a:hover {
+  color: blue;
 }

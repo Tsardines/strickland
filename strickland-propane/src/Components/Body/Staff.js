@@ -7,7 +7,7 @@ class Staff extends Component {
     return (
       <div className="staff-cont">
 
-        <h1 className="h1-staff">Meet the Team</h1>
+        <h1 className="h1-staff" id="staff-id">Meet the Team</h1>
 
         <div className="staff-boxes">
 
