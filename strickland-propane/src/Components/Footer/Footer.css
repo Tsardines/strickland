@@ -1,10 +1,10 @@
 .footer {
-  background-color: gray;
+  background-color: #3E3B36;
+  color: turquoise;
   height: 50vh;
 }
 
 .left {
-  background-color: turquoise;
   margin-left: 5em;
   padding-top: 4.75em;
   width: 55%;
